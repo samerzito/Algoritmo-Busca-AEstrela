@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Este projeto implementa a solução do problema de busca de caminho mais curto entre duas cidades, Arad e Bucareste, usando o Algoritmo de Busca Gulosa. 
+Este projeto implementa a solução do problema de busca de caminho mais curto entre duas cidades, Arad e Bucareste, usando o Algoritmo de Busca A*. 
 O algoritmo busca encontrar o caminho mais eficiente entre as duas cidades com base em uma heurística que estima a distância restante até o objetivo.
 
 ## Objetivos
