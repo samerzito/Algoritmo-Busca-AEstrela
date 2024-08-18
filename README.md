@@ -20,10 +20,15 @@ O A* garante que o caminho encontrado será o mais curto, desde que a heurístic
 ## Algoritmo
 
 Componentes de um problema 
+
 ► 1. Estado inicial; 
+
 ► 2. Estado final (objetivo); 
+
 ► 3. Espaço de estados; 
+
 ► 4. Ações para passar de um estado para outro; 
+
 ► 5. Solução (caminho que leva do estado inicial ao estado final).
 
 ## Estrutura do Projeto
