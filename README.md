@@ -1,6 +1,6 @@
 # Matéria de Inteligência Computacional 
 
-# Busca Gulosa para o Problema de Arad a Bucareste
+# Busca A* para o Problema de Arad a Bucareste
 
 ## Descrição
 
