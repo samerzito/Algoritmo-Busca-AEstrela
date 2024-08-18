@@ -12,7 +12,9 @@ O objetivo do algoritmo de busca A* no problema de Arad a Bucareste é encontrar
 Para alcançar esse objetivo, o A* utiliza uma função de avaliação f(n) = g(n) + h(n), onde:
 
 g(n) representa o custo acumulado do caminho desde o ponto de partida (Arad) até o nó atual n.
+
 h(n) é uma estimativa heurística do custo para chegar do nó n até o destino final (Bucareste).
+
 O A* garante que o caminho encontrado será o mais curto, desde que a heurística utilizada seja admissível, ou seja, nunca superestime o custo real para alcançar o destino. No contexto deste problema, a heurística mais comum é a distância em linha reta entre as cidades.
 
 ## Algoritmo
