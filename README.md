@@ -9,8 +9,13 @@ O algoritmo busca encontrar o caminho mais eficiente entre as duas cidades com b
 
 ## Objetivos
 
-Conhecer o problema de melhor rota: Arad para Bucareste; 
-Entender as etapas de modelagem do problema de melhor rota entre cidades; 
+O objetivo do algoritmo de busca A* no problema de Arad a Bucareste é encontrar o caminho mais curto e eficiente entre as cidades de Arad e Bucareste no mapa da Romênia. O algoritmo deve calcular a sequência de cidades a serem percorridas, minimizando o custo total da viagem, que pode ser medido em termos de distância, tempo ou outro critério relevante.
+
+Para alcançar esse objetivo, o A* utiliza uma função de avaliação f(n) = g(n) + h(n), onde:
+
+g(n) representa o custo acumulado do caminho desde o ponto de partida (Arad) até o nó atual n.
+h(n) é uma estimativa heurística do custo para chegar do nó n até o destino final (Bucareste).
+O A* garante que o caminho encontrado será o mais curto, desde que a heurística utilizada seja admissível, ou seja, nunca superestime o custo real para alcançar o destino. No contexto deste problema, a heurística mais comum é a distância em linha reta entre as cidades.
 
 ## Algoritmo
 
