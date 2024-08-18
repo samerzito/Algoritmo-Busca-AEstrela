@@ -1,5 +1,3 @@
-# Matéria de Inteligência Computacional 
-
 # Busca A* para o Problema de Arad a Bucareste
 
 ## Descrição
