@@ -40,4 +40,4 @@ Componentes de um problema
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/samerzito/nome-do-repositorio.git
+   git clone https://github.com/samerzito/Algoritmo-Busca-AEstrela.git
